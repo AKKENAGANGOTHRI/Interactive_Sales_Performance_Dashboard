@@ -46,19 +46,19 @@ This project helps businesses make data-driven decisions by transforming raw sal
 📂 Project Structure
     Sales-Performance-Dashboard
     │
-    ├── dataset/
-    │   └── sales_data.csv
+    ├──   dataset/
+    │     └── sales_data.csv
     │
-    ├── dashboard/
-    │   └── powerbi_dashboard.pbix
+    ├──   dashboard/
+    │     └── powerbi_dashboard.pbix
     │
-    ├── notebook/
-    │   └── forecasting_model.ipynb
+    ├──   notebook/
+    │     └── forecasting_model.ipynb
     │
-    ├── images/
-    │   └── dashboard_preview.png
+    ├──   images/
+    │     └── dashboard_preview.png
     │
-    └── README.md
+    └──   README.md
 📈 Dataset Details
 
 The dataset includes:
@@ -76,26 +76,23 @@ $671 Million+
 
 🤖 Machine Learning Model
 
-The project uses Facebook Prophet algorithm for forecasting future sales trends.
+    - The project uses Facebook Prophet algorithm for forecasting future sales trends.
 
 Forecast output includes:
 
 yhat (predicted value)
 yhat_lower (minimum prediction)
 yhat_upper (maximum prediction)
+
 💡 Business Benefits
-Improves decision making
-Saves time in report preparation
-Identifies profitable products
-Tracks regional performance
-Predicts future demand
+    - Improves decision making
+    - Saves time in report preparation
+    - Identifies profitable products
+    - Tracks regional performance
+    - Predicts future demand
 
 🖥️ Dashboard Preview
 <img width="1368" height="737" alt="Screenshot 2025-10-29 094816" src="https://github.com/user-attachments/assets/b6300d13-af44-46ab-83ac-bfde0940c452" />
-<img width="1368" height="737" alt="Screenshot 2025-10-29 094816" src="https://github.com/user-attachments/assets/b6300d13-af44-46ab-83ac-bfde0940c452" />
-
-
-
 
 🚀 How to Use
   - Download the repository
@@ -110,9 +107,9 @@ Predicts future demand
   - Forecasting using Machine Learning
   - DAX calculations
   - Business Intelligence concepts
-👩‍💻 Akkena Gangothri
+👩‍💻 Author
 
-Your Name
+Akkena Gangothri
 
 B.Tech Computer Science Graduate
 Interested in Data Analytics, AI, and Machine Learning
