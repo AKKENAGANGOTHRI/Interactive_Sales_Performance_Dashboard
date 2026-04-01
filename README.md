@@ -43,6 +43,8 @@ This project helps businesses make data-driven decisions by transforming raw sal
     - Filters by region, date, model
     - Drill-down capability
     - User friendly interface
+
+
 📂 Project Structure
     Sales-Performance-Dashboard
     │
@@ -59,6 +61,8 @@ This project helps businesses make data-driven decisions by transforming raw sal
     │     └── dashboard_preview.png
     │
     └──   README.md
+
+
 📈 Dataset Details
 
 The dataset includes:
@@ -76,13 +80,14 @@ $671 Million+
 
 🤖 Machine Learning Model
 
-    - The project uses Facebook Prophet algorithm for forecasting future sales trends.
+   - The project uses Facebook Prophet algorithm for forecasting future sales trends.
 
 Forecast output includes:
 
 yhat (predicted value)
 yhat_lower (minimum prediction)
 yhat_upper (maximum prediction)
+
 
 💡 Business Benefits
     - Improves decision making
@@ -100,6 +105,7 @@ yhat_upper (maximum prediction)
   - Connect dataset if required
   - Refresh data
   - Explore dashboard insights
+
 📚 Learning Outcomes
   - Power BI dashboard development
   - Data visualization techniques
@@ -107,6 +113,7 @@ yhat_upper (maximum prediction)
   - Forecasting using Machine Learning
   - DAX calculations
   - Business Intelligence concepts
+
 👩‍💻 Author
 
 Akkena Gangothri
