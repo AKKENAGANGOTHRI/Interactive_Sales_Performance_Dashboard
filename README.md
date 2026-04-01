@@ -1,5 +1,7 @@
 # Interactive_Sales_Performance_Dashboard
+
 📊 Sales Performance Dashboard
+
 📌 Project Overview
 
 The Sales Performance Dashboard is an interactive Business Intelligence (BI) solution built using Microsoft Power BI to analyze and visualize automobile sales data.
@@ -8,6 +10,7 @@ The dashboard provides insights into regional sales performance, product trends,
 This project helps businesses make data-driven decisions by transforming raw sales data into meaningful visual insights.
 
 🎯 Objectives
+ 
   - Monitor sales performance across multiple regions
   - Identify best-selling car models and body styles
   - Analyze sales trends over time
@@ -29,21 +32,30 @@ This project helps businesses make data-driven decisions by transforming raw sal
 📊 Key Features
 
   1️⃣ Sales Trend Analysis
+  
     - Visualizes sales performance over time
     - Helps identify growth patterns and seasonal trends
+ 
   2️⃣ Regional Sales Analysis
+   
     - Compares sales across different dealer regions
     - Identifies high performing areas
+ 
   3️⃣ Product Performance Analysis
+  
     - Shows sales distribution by:
     - Car model
     - Company
     - Body style
     - Color
+ 
   4️⃣ Predictive Analytics
+   
     - Forecasts future sales using Prophet Machine Learning model
     - Provides confidence intervals for predictions
+ 
   5️⃣ Interactive Dashboard
+   
     - Filters by region, date, model
     - Drill-down capability
     - User friendly interface
