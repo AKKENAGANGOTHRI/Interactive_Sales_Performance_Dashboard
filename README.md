@@ -14,7 +14,9 @@ This project helps businesses make data-driven decisions by transforming raw sal
   - Forecast future sales using time series forecasting
   - Provide interactive dashboards for decision making
   - Reduce manual reporting time
+
 🛠️ Technologies Used
+ 
   Tool	Purpose
   - Power BI	Data visualization and dashboard creation
   - Python	Data analysis and forecasting
@@ -23,7 +25,9 @@ This project helps businesses make data-driven decisions by transforming raw sal
   - Power Query	Data transformation
   - DAX	Calculations and metrics
   - GitHub	Version control
+
 📊 Key Features
+
   1️⃣ Sales Trend Analysis
     - Visualizes sales performance over time
     - Helps identify growth patterns and seasonal trends
@@ -46,6 +50,7 @@ This project helps businesses make data-driven decisions by transforming raw sal
 
 
 📂 Project Structure
+    
     Sales-Performance-Dashboard
     │
     ├──   dataset/
@@ -90,6 +95,7 @@ yhat_upper (maximum prediction)
 
 
 💡 Business Benefits
+   
     - Improves decision making
     - Saves time in report preparation
     - Identifies profitable products
@@ -100,6 +106,7 @@ yhat_upper (maximum prediction)
 <img width="1368" height="737" alt="Screenshot 2025-10-29 094816" src="https://github.com/user-attachments/assets/b6300d13-af44-46ab-83ac-bfde0940c452" />
 
 🚀 How to Use
+ 
   - Download the repository
   -  Open Power BI file (.pbix)
   - Connect dataset if required
@@ -107,6 +114,7 @@ yhat_upper (maximum prediction)
   - Explore dashboard insights
 
 📚 Learning Outcomes
+  
   - Power BI dashboard development
   - Data visualization techniques
   - Data cleaning using Power Query
