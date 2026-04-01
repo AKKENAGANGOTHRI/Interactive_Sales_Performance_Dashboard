@@ -31,14 +31,17 @@ This project helps businesses make data-driven decisions by transforming raw sal
 📊 Key Features
 
   1️⃣ Sales Trend Analysis
+  
     - Visualizes sales performance over time
     - Helps identify growth patterns and seasonal trends
  
   2️⃣ Regional Sales Analysis
+  
     - Compares sales across different dealer regions
     - Identifies high performing areas
  
   3️⃣ Product Performance Analysis  
+    
     - Shows sales distribution by:
     - Car model
     - Company
@@ -46,10 +49,12 @@ This project helps businesses make data-driven decisions by transforming raw sal
     - Color
  
   4️⃣ Predictive Analytics
+    
     - Forecasts future sales using Prophet Machine Learning model
     - Provides confidence intervals for predictions
  
   5️⃣ Interactive Dashboard 
+    
     - Filters by region, date, model
     - Drill-down capability
     - User friendly interface
@@ -101,6 +106,7 @@ yhat_upper (maximum prediction)
 
 
 💡 Business Benefits
+    
     - Improves decision making
     - Saves time in report preparation
     - Identifies profitable products
